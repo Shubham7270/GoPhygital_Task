@@ -1,14 +1,14 @@
 # GoPhygital — School User Data Application
  
-A role-based school management application built with **Vite**, **React**, and **Tailwind CSS**. Users log in with their school email and password and are routed to either an admin dashboard or a personal student profile based on their role.
+A role-based school management application built with **Vite**, **React**, and **Tailwind CSS**. Users log in with their email and password and are routed to either an admin dashboard or a personal student profile based on their role.
  
 ---
  
 ## Live Demo
  
-🔗 [https://school-app-xxx.vercel.app](https://school-app-xxx.vercel.app)
+🔗 https://go-phygital-task.vercel.app/
  
-> Replace the link above with your actual Vercel deployment URL after deploying.
+
  
 ---
  
@@ -85,7 +85,7 @@ school-app/
  
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/school-app.git
+git clone https://github.com/Shubham7270/GoPhygital_Task.git
  
 # 2. Move into the project folder
 cd school-app
